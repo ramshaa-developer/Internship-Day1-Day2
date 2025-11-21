@@ -1,6 +1,6 @@
 # Internship – Day 1 & Day 2 Tasks
 
-This repository contains my completed internship tasks for Day 1 (SQL) and Day 2 (Java JDBC).
+This repository contains my completed internship tasks
  Day 1 – SQL (PostgreSQL + pgAdmin)
 
  Created Tables
